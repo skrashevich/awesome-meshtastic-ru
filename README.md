@@ -21,7 +21,7 @@
 
 ## Сервисы и онлайн-инструменты
 
-- **[Карта Meshtastic Россия](https://github.com/gotnull/socialmesh)** — Интерактивная карта узлов Meshtastic по России (часть проекта Socialmesh). От @vgrishin.
+- **[Карта Meshtastic Россия](https://map.onemesh.ru)** — Интерактивная карта узлов Meshtastic по России и СНГ (проект ONEmesh). Основана на [liamcottle/meshtastic-map](https://github.com/liamcottle/meshtastic-map). От @vgrishin.
 
 - **Планировка радиолинков** — Инструмент для расчёта и визуализации радиолинков между нодами. От @ginko_san. *(публичный репозиторий не обнаружен)*
 
