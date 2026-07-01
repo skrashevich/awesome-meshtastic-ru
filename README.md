@@ -35,7 +35,7 @@
 
   [![T-Deck с русской клавиатурой](https://raw.githubusercontent.com/skrashevich/meshtastic-firmware/develop/.github/screenshot_ru.jpg)](https://github.com/skrashevich/meshtastic-firmware)
 
-- **Meshtastic+MeshCore прошивка** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts. *(публичный репозиторий не обнаружен)*
+- **[Meshtastic+MeshCore прошивка (mesh-loader)](https://github.com/eliahreeves/mesh-loader)** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts.
 
 ## Клиенты для ПК
 
