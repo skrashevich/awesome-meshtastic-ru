@@ -51,7 +51,7 @@
 
 - **[MeshApp.ru](https://meshapp.ru)** — Десктопное приложение для Meshtastic и MeshCore: чат, карта нод, настройка радио. Исходный код: [git.privatepractice.app](https://git.privatepractice.app/covox/meshapp). От @coVox.
 
-- **Консольный клиент** — Консольный клиент для работы с mesh-сетью. От @Borshchuk. *(публичный репозиторий не обнаружен)*
+- **[Консольный клиент (meshtastic_monkey)](https://github.com/mrSatang/meshtastic_monkey)** — Консольный клиент для работы с mesh-сетью. От @Borshchuk.
 
 - **Доработка [MeshSense](https://github.com/Affirmatech/MeshSense)** — Модификация оригинального MeshSense для российских условий. От Алексея Т. *(форк не опубликован)*
 
