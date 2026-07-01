@@ -31,7 +31,9 @@
 
 - **[Сборщик любых прошивок](https://github.com/skrashevich/meshtastic-firmware-builder)** — Go-утилита для кастомной сборки прошивок Meshtastic под любые платы. От @skrashevich.
 
-- **[RU-прошивка на T-Deck/Pager](https://github.com/skrashevich/meshtastic-firmware)** — Полноценная русская раскладка клавиатуры для T-Deck и T-LoRa Pager с переключением EN/RU. От @skrashevich.
+- **[RU-прошивка на T-Deck/Pager](https://github.com/skrashevich/meshtastic-firmware)** — Полноценная русская раскладка клавиатуры для T-Deck и T-LoRa Pager с переключением EN/RU. Ветка `develop`. От @skrashevich.
+
+  [![T-Deck с русской клавиатурой](https://raw.githubusercontent.com/skrashevich/meshtastic-firmware/develop/.github/screenshot_ru.jpg)](https://github.com/skrashevich/meshtastic-firmware)
 
 - **Meshtastic+MeshCore прошивка** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts. *(публичный репозиторий не обнаружен)*
 
