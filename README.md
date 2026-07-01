@@ -83,9 +83,9 @@
 
 ## Боты и мосты
 
-- **Бот + лог эфира в Telegram** — Telegram-бот для мониторинга эфира и отправки сообщений в mesh. От @s4ph3r. *(публичный репозиторий не обнаружен)*
+- **[Бот + лог эфира в Telegram](https://hub.docker.com/r/54ph3r/meshtastic-network-monitor)** — Telegram-бот для мониторинга эфира и отправки сообщений в mesh (Docker-образ). От @s4ph3r.
 
-- **Бот + эфир в Telegram/Matrix** — Бот для двусторонней связи Meshtastic ↔ Telegram и Matrix. От @cyberbibki. *(публичный репозиторий не обнаружен)*
+- **[Бот + эфир в Telegram/Matrix (GoMeshtasticBot)](https://github.com/vakarianplay/GoMeshtasticBot)** — Бот для двусторонней связи Meshtastic ↔ Telegram и Matrix. От @cyberbibki.
 
 - **[Meshtastic Proxy](https://github.com/jf3tt/meshtastic-proxy)** — TCP-прокси для Meshtastic с веб-дашбордом, мультиплексированием клиентов, метриками Prometheus и mDNS. От @jfett.
 
