@@ -21,11 +21,11 @@
 
 ## Сервисы и онлайн-инструменты
 
-- **[Карта Meshtastic Россия](https://github.com/vgrishin/socialmesh)** — Интерактивная карта узлов Meshtastic по России с привязкой к реальному расположению. От @vgrishin.
+- **[Карта Meshtastic Россия](https://github.com/gotnull/socialmesh)** — Интерактивная карта узлов Meshtastic по России (часть проекта Socialmesh). От @vgrishin.
 
-- **[Планировка радиолинков](https://t.me/ginko_san)** — Инструмент для расчёта и визуализации радиолинков между нодами. От @ginko_san.
+- **Планировка радиолинков** — Инструмент для расчёта и визуализации радиолинков между нодами. От @ginko_san. *(публичный репозиторий не обнаружен)*
 
-- **[Установщик прошивок (webesptool)](https://github.com/mrekin/webesptool)** — Веб-инструмент для прошивки ESP32-устройств прямо из браузера. Не требует установки софта. От @mrekin.
+- **[Установщик прошивок (webesptool)](https://github.com/mrekin/webesptool)** — Веб-инструмент для прошивки ESP32-устройств прямо из браузера. Запущен на [flashmesh.ru](https://flashmesh.ru). От @mrekin.
 
 ## Прошивки
 
@@ -33,7 +33,7 @@
 
 - **[RU-прошивка на T-Deck/Pager](https://github.com/skrashevich/meshtastic-firmware)** — Полноценная русская раскладка клавиатуры для T-Deck и T-LoRa Pager с переключением EN/RU. От @skrashevich.
 
-- **[Meshtastic+MeshCore прошивка](https://t.me/Dm1ts)** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts.
+- **Meshtastic+MeshCore прошивка** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts. *(публичный репозиторий не обнаружен)*
 
 ## Клиенты для ПК
 
@@ -43,17 +43,17 @@
   [![MeshRadar interface](https://raw.githubusercontent.com/curlysasha/MeshRadar/master/assets/interface.jpg)](https://github.com/curlysasha/MeshRadar)
   [![MeshRadar traceroute](https://raw.githubusercontent.com/curlysasha/MeshRadar/master/assets/traceroute.jpg)](https://github.com/curlysasha/MeshRadar)
 
-- **[meshTalk](https://t.me/peerat33)** — Клиент для ПК с удобным интерфейсом. От @peerat33.
+- **meshTalk** — Клиент для ПК с удобным интерфейсом. От @peerat33. *(публичный репозиторий не обнаружен)*
 
 - **[MeshGo](https://github.com/skobkin/meshgo)** — Десктопный клиент Meshtastic, написанный с помощью Codex. От @skobkin.
 
-- **[MeshApp.ru](https://t.me/coVox)** — Веб-клиент для Meshtastic. От @coVox.
+- **[MeshApp.ru](https://meshapp.ru)** — Десктопное приложение для Meshtastic и MeshCore: чат, карта нод, настройка радио. Исходный код: [git.privatepractice.app](https://git.privatepractice.app/covox/meshapp). От @coVox.
 
-- **[Консольный клиент](https://t.me/Borshchuk)** — Консольный клиент для работы с mesh-сетью. От @Borshchuk.
+- **Консольный клиент** — Консольный клиент для работы с mesh-сетью. От @Borshchuk. *(публичный репозиторий не обнаружен)*
 
-- **[Доработка MeshSense](https://t.me/alexeyt_mesh)** — Модификация и доработка MeshSense для российских условий. От Алексея Т.
+- **Доработка [MeshSense](https://github.com/Affirmatech/MeshSense)** — Модификация оригинального MeshSense для российских условий. От Алексея Т. *(форк не опубликован)*
 
-- **[Клиент на Python+Qt](https://t.me/rummind)** — Десктопный клиент на Python с Qt-интерфейсом. От @rummind.
+- **Клиент на Python+Qt** — Десктопный клиент на Python с Qt-интерфейсом. От @rummind. *(публичный репозиторий не обнаружен)*
 
 - **[Termtastic](https://github.com/acelot/termtastic)** — Функциональный консольный клиент Meshtastic на Rust. От @provaleriy.
 
@@ -65,7 +65,7 @@
 
 ## Утилиты и библиотеки
 
-- **[Кодирование кириллицы](https://github.com/luigivampa92)** — Инструменты для корректной передачи кириллицы через Meshtastic (кодировка/декодировка). От @luigivampa92.
+- **[Кодирование кириллицы (MeshCompact)](https://github.com/Eloren1/MeshCompact)** — Замена кириллических символов на ASCII-аналоги для вписывания в лимиты Meshtastic. От @luigivampa92.
 
 - **[Компрессор сообщений (mesh-compressor)](https://github.com/dimapanov/mesh-compressor)** — Сжимает текст в 2–7 раз для отправки в одном 233-байтном пакете Meshtastic. Lossless, 10 языков. От @dimapanov.
 
@@ -77,17 +77,19 @@
   [![Web UI Chat](https://raw.githubusercontent.com/skrashevich/go-meshtastic-serial2tcp/main/docs/webui-chat.png)](https://github.com/skrashevich/go-meshtastic-serial2tcp)
   [![Web UI Channels](https://raw.githubusercontent.com/skrashevich/go-meshtastic-serial2tcp/main/docs/webui-channels.png)](https://github.com/skrashevich/go-meshtastic-serial2tcp)
 
-- **[meshTools](https://t.me/peerat33)** — Набор утилит для работы с Meshtastic. От @peerat33.
+- **meshTools** — Набор утилит для работы с Meshtastic. От @peerat33. *(публичный репозиторий не обнаружен)*
 
 ## Боты и мосты
 
-- **[Бот + лог эфира в Telegram](https://t.me/s4ph3r)** — Telegram-бот для мониторинга эфира и отправки сообщений в mesh. От @s4ph3r.
+- **Бот + лог эфира в Telegram** — Telegram-бот для мониторинга эфира и отправки сообщений в mesh. От @s4ph3r. *(публичный репозиторий не обнаружен)*
 
-- **[Бот + эфир в Telegram/Matrix](https://t.me/cyberbibki)** — Бот для двусторонней связи Meshtastic ↔ Telegram и Matrix. От @cyberbibki.
+- **Бот + эфир в Telegram/Matrix** — Бот для двусторонней связи Meshtastic ↔ Telegram и Matrix. От @cyberbibki. *(публичный репозиторий не обнаружен)*
 
-- **[TCP-Proxy + Дашборд](https://t.me/jfett)** — TCP-прокси для Meshtastic с веб-дашбордом. От @jfett.
+- **[Meshtastic Proxy](https://github.com/jf3tt/meshtastic-proxy)** — TCP-прокси для Meshtastic с веб-дашбордом, мультиплексированием клиентов, метриками Prometheus и mDNS. От @jfett.
 
-- **[Бот + эфир в Telegram](https://t.me/ginko_san)** — Бот для интеграции Meshtastic с Telegram. От @ginko_san.
+  [![Web Dashboard](https://raw.githubusercontent.com/jf3tt/meshtastic-proxy/main/screenshots/image.png)](https://github.com/jf3tt/meshtastic-proxy)
+
+- **Бот + эфир в Telegram** — Бот для интеграции Meshtastic с Telegram. От @ginko_san. *(публичный репозиторий не обнаружен)*
 
 - **[Tmesh.ru — связь с Telegram](https://github.com/samfromlv/tmesh)** — Мост между Meshtastic и приватными группами в Telegram. От @alex_shakhov_dev.
 
@@ -95,11 +97,11 @@
 
 ## Железо и софт
 
-- **[Плата для nrf52 и E22900m30s](https://t.me/anykey_play)** — Кастомная плата на базе nRF52 с модулем E22900m30s для Meshtastic. От @anykey_play.
+- **Плата для nrf52 и E22900m30s** — Кастомная плата на базе nRF52 с модулем E22900m30s для Meshtastic. От @anykey_play. *(публичный репозиторий не обнаружен)*
 
-- **[Offgrid-коммуникатор](https://t.me/dengoroff)** — Автономное устройство для off-grid связи на Meshtastic. От @dengoroff.
+- **Offgrid-коммуникатор** — Автономное устройство для off-grid связи на Meshtastic. От @dengoroff. *(публичный репозиторий не обнаружен)*
 
-- **[Солнечная нода для зонда](https://t.me/Tot_i_etot)** — Солнечная автономная нода для метеозонда или полевых условий. От @Tot_i_etot.
+- **Солнечная нода для зонда** — Солнечная автономная нода для метеозонда или полевых условий. От @Tot_i_etot. *(публичный репозиторий не обнаружен)*
 
 ## Проекты skrashevich
 
