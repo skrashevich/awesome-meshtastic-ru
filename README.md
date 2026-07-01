@@ -45,7 +45,7 @@
   [![MeshRadar interface](https://raw.githubusercontent.com/curlysasha/MeshRadar/master/assets/interface.jpg)](https://github.com/curlysasha/MeshRadar)
   [![MeshRadar traceroute](https://raw.githubusercontent.com/curlysasha/MeshRadar/master/assets/traceroute.jpg)](https://github.com/curlysasha/MeshRadar)
 
-- **meshTalk** — Клиент для ПК с удобным интерфейсом. От @peerat33. *(публичный репозиторий не обнаружен)*
+- **meshTalk** — Экспериментальный P2P-мессенджер поверх Meshtastic с ACK и авто-поиском портов. Входит в состав [meshTools](https://github.com/peerat/meshTools). От @peerat33.
 
 - **[MeshGo](https://github.com/skobkin/meshgo)** — Десктопный клиент Meshtastic, написанный с помощью Codex. От @skobkin.
 
@@ -79,7 +79,7 @@
   [![Web UI Chat](https://raw.githubusercontent.com/skrashevich/go-meshtastic-serial2tcp/main/docs/webui-chat.png)](https://github.com/skrashevich/go-meshtastic-serial2tcp)
   [![Web UI Channels](https://raw.githubusercontent.com/skrashevich/go-meshtastic-serial2tcp/main/docs/webui-channels.png)](https://github.com/skrashevich/go-meshtastic-serial2tcp)
 
-- **meshTools** — Набор утилит для работы с Meshtastic. От @peerat33. *(публичный репозиторий не обнаружен)*
+- **[meshTools](https://github.com/peerat/meshTools)** — Набор Python-утилит: meshLogger (сбор трассировок в SQLite), graphGen (графы топологии), meshTalk (P2P-чат с ACK). От @peerat33.
 
 ## Боты и мосты
 
