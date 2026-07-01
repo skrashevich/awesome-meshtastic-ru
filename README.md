@@ -23,7 +23,7 @@
 
 - **[Карта Meshtastic Россия](https://map.onemesh.ru)** — Интерактивная карта узлов Meshtastic по России и СНГ (проект ONEmesh). Основана на [liamcottle/meshtastic-map](https://github.com/liamcottle/meshtastic-map). От @vgrishin.
 
-- **Планировка радиолинков** — Инструмент для расчёта и визуализации радиолинков между нодами. От @ginko_san. *(публичный репозиторий не обнаружен)*
+- **[Планировка радиолинков](https://antenna.2tg.dev)** — Инструмент для расчёта и визуализации радиолинков между нодами. Онлайн-калькулятор с учётом рельефа, высоты антенн и частоты. От @ginko_san.
 
 - **[Установщик прошивок (webesptool)](https://github.com/mrekin/webesptool)** — Веб-инструмент для прошивки ESP32-устройств прямо из браузера. Запущен на [flashmesh.ru](https://flashmesh.ru). От @mrekin.
 
