@@ -25,7 +25,7 @@
 
 - **[Планировка радиолинков](https://antenna.2tg.dev)** — Инструмент для расчёта и визуализации радиолинков между нодами. Онлайн-калькулятор с учётом рельефа, высоты антенн и частоты. От @ginko_san.
 
-- **[Установщик прошивок (webesptool)](https://github.com/mrekin/webesptool)** — Веб-инструмент для прошивки ESP32-устройств прямо из браузера. Запущен на [flashmesh.ru](https://flashmesh.ru). От @mrekin.
+- **[Веб-установщик кастомных прошивок](https://mrekin.duckdns.org/flasher/)** — Онлайн-флэшер для Meshtastic-устройств с русским интерфейсом, поддержкой кастомных сборок, RU-прошивок и MeshCore. Исходный код: [mrekin/MeshtasticCustomBoards](https://github.com/mrekin/MeshtasticCustomBoards). От @mrekin.
 
 ## Прошивки
 
@@ -47,7 +47,7 @@
 
 - **meshTalk** — Экспериментальный P2P-мессенджер поверх Meshtastic с ACK и авто-поиском портов. Входит в состав [meshTools](https://github.com/peerat/meshTools). От @peerat33.
 
-- **[MeshGo](https://github.com/skobkin/meshgo)** — Десктопный клиент Meshtastic, написанный с помощью Codex. От @skobkin.
+- **[MeshGo](https://git.skobk.in/skobkin/meshgo/releases)** — Рабочий прототип десктопного клиента для Windows и Linux с поддержкой IP и Serial. Релизы и исходники опубликованы на `git.skobk.in`. От @skobkin.
 
 - **[MeshApp.ru](https://meshapp.ru)** — Десктопное приложение для Meshtastic и MeshCore: чат, карта нод, настройка радио. Исходный код: [git.privatepractice.app](https://git.privatepractice.app/covox/meshapp). От @coVox.
 
@@ -101,7 +101,7 @@
 
 - **Плата для nrf52 и E22900m30s** — Кастомная плата на базе nRF52 с модулем E22900m30s для Meshtastic. От @anykey_play. *(публичный репозиторий не обнаружен)*
 
-- **Offgrid-коммуникатор** — Автономное устройство для off-grid связи на Meshtastic. От @dengoroff. *(публичный репозиторий не обнаружен)*
+- **[Offgrid-коммуникатор KM1](https://lemon-smoke-028c5d510.6.azurestaticapps.net/)** — Концепт автономного гео-коммуникатора с Meshtastic, асинхронной доставкой через Reticulum и веб-симулятором интерфейса. От @dengoroff.
 
 - **Солнечная нода для зонда** — Солнечная автономная нода для метеозонда или полевых условий. От @Tot_i_etot. *(публичный репозиторий не обнаружен)*
 
