@@ -37,6 +37,8 @@
 
 - **[Meshtastic+MeshCore прошивка (mesh-loader)](https://github.com/eliahreeves/mesh-loader)** — Прошивка, объединяющая Meshtastic и MeshCore на одном устройстве. От @Dm1ts.
 
+- **[Универсальная прошивка (Efirnet Uniware)](https://github.com/ignisdomini/efirnet-uniware)** — Мультизагрузчик 3-в-1: одна плата, три независимые прошивки (Эфирнет, Meshtastic, MeshCore) с выбором при включении через меню на экране. Заливается из браузера. От @roslobbist.
+
 ## Клиенты для ПК
 
 - **[MeshRadar](https://github.com/curlysasha/MeshRadar)** — Современный веб-интерфейс для mesh-сети. Поддерживает Serial/TCP подключение, реаль-time сообщения, каналы, DM, traceroute, телеметрию. От @curlysasha.
@@ -63,6 +65,10 @@
 
 - **[MeshMonitor в Home Assistant](https://github.com/BrainDeLook/meshmonitor-ha)** — Аддон Home Assistant для мониторинга mesh-сети. От @braindelook.
 
+- **[Плагин Hermes Agent (hermes-meshtastic-adapter)](https://github.com/curlysasha/hermes-meshtastic-adapter)** — Плагин платформы Hermes Agent, подключающий Hermes к LoRa-сети Meshtastic: принимает текстовые сообщения от нод, передаёт их в сессии Hermes и отправляет ответы обратно по LoRa (личные сообщения или broadcast в канал). От @curlysasha.
+
+  [![Демо: чат с агентом из приложения Meshtastic](https://raw.githubusercontent.com/curlysasha/hermes-meshtastic-adapter/main/assets/demo-meshtastic-chat.jpg)](https://github.com/curlysasha/hermes-meshtastic-adapter)
+
   [![MeshMonitor Logo](https://raw.githubusercontent.com/BrainDeLook/meshmonitor-ha/main/meshmonitor/logo.png)](https://github.com/BrainDeLook/meshmonitor-ha)
 
 ## Утилиты и библиотеки
@@ -81,11 +87,15 @@
 
 - **[meshTools](https://github.com/peerat/meshTools)** — Набор Python-утилит: meshLogger (сбор трассировок в SQLite), graphGen (графы топологии), meshTalk (P2P-чат с ACK). От @peerat33.
 
+- **[Meshtastic Lite Gateway](https://github.com/Bigmanekb/meshtastic-lite-gateway)** — Шлюз для множественных подключений: держит одно TCP-соединение с нодой (порт 4403) и мультиплексирует его между любым числом клиентов (телефоны, скрипты, Home Assistant, Node-RED). Фичи: echo между клиентами, виртуальные ноды, replay истории сообщений, mDNS-автообнаружение, node-emulation квирков клиентов. Docker. От @Bigmanekb.
+
 ## Боты и мосты
 
 - **[Бот + лог эфира в Telegram](https://hub.docker.com/r/54ph3r/meshtastic-network-monitor)** — Telegram-бот для мониторинга эфира и отправки сообщений в mesh (Docker-образ). От @s4ph3r.
 
 - **[Бот + эфир в Telegram/Matrix (GoMeshtasticBot)](https://github.com/vakarianplay/GoMeshtasticBot)** — Бот для двусторонней связи Meshtastic ↔ Telegram и Matrix. От @cyberbibki.
+
+- **Matrix-бот для карт** — Бот для публикации карт mesh-сети в Matrix. От @cyberbibki. *(публичный репозиторий не обнаружен)*
 
 - **[Meshtastic Proxy](https://github.com/jf3tt/meshtastic-proxy)** — TCP-прокси для Meshtastic с веб-дашбордом, мультиплексированием клиентов, метриками Prometheus и mDNS. От @jfett.
 
