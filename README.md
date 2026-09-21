@@ -65,6 +65,8 @@
 
 - **[MeshMonitor в Home Assistant](https://github.com/BrainDeLook/meshmonitor-ha)** — Аддон Home Assistant для мониторинга mesh-сети. От @braindelook.
 
+- **MQTT и виртуальная нода** — Сервис/утилита для работы с MQTT и виртуальной нодой Meshtastic (нода без радио, подключаемая через MQTT). От @nikolya_prodigy. *(публичный репозиторий не обнаружен)*
+
 - **[Плагин Hermes Agent (hermes-meshtastic-adapter)](https://github.com/curlysasha/hermes-meshtastic-adapter)** — Плагин платформы Hermes Agent, подключающий Hermes к LoRa-сети Meshtastic: принимает текстовые сообщения от нод, передаёт их в сессии Hermes и отправляет ответы обратно по LoRa (личные сообщения или broadcast в канал). От @curlysasha.
 
   [![Демо: чат с агентом из приложения Meshtastic](https://raw.githubusercontent.com/curlysasha/hermes-meshtastic-adapter/main/assets/demo-meshtastic-chat.jpg)](https://github.com/curlysasha/hermes-meshtastic-adapter)
